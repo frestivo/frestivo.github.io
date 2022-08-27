@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "F Restivo"
+  },
+  "text": {
+    "more": "I found on kaggle.com a database with 9k airports and 92k routes between them. \nI used Gephi\u0027s Force Atlas algorithm to arrange the nodes and used a filter that eliminated all nodes with a total degree less than 100 (total routes that use the airport). \nThere are 262 airports left, and curiously (or maybe not) the modularity class algorithm arranged them very well by continent, with minor exceptions.",
+    "intro": "Top world airports with more than 100 routes per day.",
+    "title": "World most interconnected airports"
+  },
+  "legend": {
+    "edgeLabel": "Routes",
+    "colorLabel": "",
+    "nodeLabel": "Airports"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
