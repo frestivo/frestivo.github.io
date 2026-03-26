@@ -1,0 +1,11 @@
+We in Sakarya University can take part in your cluster and perform the following possible 
+roles:
+We can develop
+
+- new algorithm or improve the existing algoritms for the given purpose
+
+- Agent based architectures
+
+- Performance measurement systems
+
+- E-supply chain methods.

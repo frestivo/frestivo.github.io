@@ -1,0 +1,11 @@
+Many thanks for the (draft v1) document on your satellite. 
+The perspectives therein are very promising in terms of  broad scientific coverage 
+of  the topics in methods.
+The main deliverable expected from SMR are negotiation and decision algorithms to 
+control the manufacturing sequences to be delivered and integrated in the 
+engineering plattform.
+For the purpose of the first stage proposal we would need a short description 
+(extract of your current work) how the group would like to achieve this. In addition 
+it would help to know who are the key-partners and whats their role in SMR.
+
+Michael Hoepf 

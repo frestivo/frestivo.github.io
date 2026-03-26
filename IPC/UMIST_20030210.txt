@@ -1,0 +1,144 @@
+Another Proposal for the scope of the 
+INTELLIGENT PRODUCTION CONTROL Scientific Methods and Research Satellite:
+
+Objectives:
+The objective is to develop computing methods for Decision Analysis in the shop 
+floor. This will provide an intelligent service assurance by including autonomous 
+decision analysis algorithms with learning, adaptive and optimisation capabilities. 
+It will also provide detection and control of systems failures, degradation or 
+disturbances, and to restore the system to an ideal state.
+
+Methodology:
+Decision Analysis (Intelligence, Design, Choice, Implementation, Learning)
+
+a) Intelligence
+- Search for conditions that call for decisions (data gathering and failures, 
+degradation or disturbances detection).
+- Identify and define the problem (distinguishing between symptoms and root cause 
+problems).
+
+b) Design
+- Inventing, developing, and analysing possible courses of action
+- Develop a set of self organising Decision Rules.
+- Constructing a representative model data gathering and failures, degradation or 
+disturbances detection.
+- Generation of Evaluation Criteria
+- Generation of Alternatives
+- Development of a model (mapping) that combines Criteria and Alternatives taking 
+into consideration interdependencies among them.
+
+c) Choice
+- Selecting a course of action from those available
+- Validation of the model in terms of consistency.
+- Develop sensitivity analysis (what if) scenarios.
+
+d) Implementation
+- Develop optimised methods to allocate resources.
+- Implementing the solution to the original problem.
+
+e) Learning
+- In order to automatically improve service assurance performance, a knowledge base 
+of previous cases needed to be established as “cases”.
+- Matching criteria and algorithms are then need to be devised in order to sustain 
+a continuous and adaptive learning environment.
+
+Examples of Research Areas and Applications:
+
+- Asset Management of Intelligent Manufacturing Maintenance Systems and Multiple 
+Criteria Decision-Making. This research is concerned with the analysis of data 
+related to machine failures and design and the development of Computerised 
+Maintenance Management Systems (CMMSs) that model the manufacturing environment, 
+collect data in real-time, perform relative comparisons and provide decision 
+support to different levels within industrial enterprises. Techniques incorporated 
+based on the Analytic Hierarchy Process (AHP), and Fuzzy Logic Control (FLC).
+
+- Analysis of existing data related to categorisation of failures and their eventual 
+link to preventive schedules. Previous research has shown that documented Preventive 
+Maintenance (PM) schedules are not implemented because they are too static and they 
+do not reflect shop-floor realities and needs. Moreover, they are given a lower 
+priority than fire-fighting situations and therefore, they never get implemented. 
+Analysis of current maintenance practice will be carried out, in terms of data 
+capture related to fault reporting and preventive measures. Initial attempts to 
+model generic characterisation of failures and fault codes has led to the conclusion 
+that the majority of failures tend to be categorised into broad categories such as 
+mechanical, electrical, hydraulic, pneumatic, and software. However, it was found 
+that further sub-dividing of these categories will lead to industry and plant 
+specific classifications. For example, under mechanical failures there might be 
+axis drive, conveyor, gear box, fixture, etc. These categories will be arranged 
+into a hierarchy of failure characterisation. For every failure event (signature) 
+there will be a measure of significance in terms of frequency (number of times) and 
+downtime (duration). These combined measures will help to assign relative weights 
+of importance to the different types of failures. Next, weights will be used to 
+prioritise PM schedules so that existing PMs can be ranked in an adaptive way. 
+Knowledge of methods to categorise preventive schedules as well as failure modes 
+will be important in designing a system linked to preventive maintenance databases. 
+Techniques related to data mining and prioritisation will be incorporated.
+
+- Data visualisation and its effect on reliability and machines performance. It is 
+important to set adequate performance measures such as Mean Time Between Failures 
+(MTBF) and Mean Time To Repair (MTTR) in order to monitor improvements in 
+performance of assets (downtime) and skills of maintenance engineers (repair). 
+Research will be carried out to understand failures by focusing on severity and rate 
+of occurrence. In terms of severity, a fundamental question is “What is failure 
+downtime?” In other words, at what level is the deterioration of state considered to 
+be downtime? Data captured will provide guidance to identification of parameters 
+that need to be monitored in an automated approach. The usage of Condition Based 
+Monitoring (CBM) will be investigated in order to facilitate automated data capture 
+of selected parameters. In terms of rate of occurrence, the concept of real- time 
+data capturing and simulation of developed models on-line will be investigated. 
+Programmable Logic Controllers (PLCs) will be used in this process as deemed 
+necessary. This will naturally lead to modelling and simulation of a pilot machine 
+or a manufacturing system, where a manufacturing system production line is modelled 
+and linked to a PLC (Programmable Logic Controller). The manufacturing system will 
+be modelled and controlled using a Supervisory Control and Data Acquisition (SCADA) 
+system. A pilot study for developing such a model of one of the existing studied 
+machines will be performed, but here the novelty is to try to simulate injected 
+failures into the modeled system. Being able to monitor and accordingly respond in 
+real time will provide an asset management model that is adaptive to shop floor 
+realities and needs. As Charles Darwin has expressed it succinctly: “It is not the 
+strongest of the species that survives, nor the most intelligent, but the one most 
+responsive to change”. In understanding failures in terms of severity and rate of 
+occurrence, we are approaching a state of responsiveness. Also being able to 
+understand and be ‘in control’ of failure events is one step nearer to the concepts 
+of self-repair and self- maintenance; a desirable feature of Next Generation 
+Manufacturing Paradigms.
+
+- Trade-off between reactivity and performance. To have a self- organising adaptive 
+system it would be best to implement it in a decentralised way, but with the 
+overhead of massive communication. To have a good performing system, it would be 
+best to have a central place where all information is available, and the best 
+solution is calculated. (in case of combinatorial problems (e.g. scheduling) this 
+would mean to generate a huge set of solutions). Time is a critical factor. In case 
+of a system failure a reactive system is necessary. In case of an up-and- running 
+system, optimisation is the objective. Research is necessary to identify the right 
+algorithms for the individual classes of problems, and some methodology is missing 
+to let the system be both, reactive and performing.
+
+Knowledge areas: (Concepts, Algorithms, Technologies)
+
+Concepts:
+Predictive Maintenance, Reliability, Asset Management, Artificial Intelligence (AI), 
+Holonic Manufacturing Systems (HMS), Reconfigurble Manufacturing Systems (RMS).
+
+Algorithms:
+Diagnosis algorithms, Optimisation Algorithms, Distributed Decision Making, 
+Multiple Criteria Decision Making Algorithms, Resource Allocation Algorithms, 
+Data mining algorithms, Artificial Neural Networks (ANN), Fuzzy Logic Control (FLC), 
+Knowledge Management, Case-Based Reasoning (CBR). The Analytic Hierarchy Process 
+(AHP), The Analytic Network Process (ANP).
+
+Technologies:
+Programmable Logic Control (PLC), Supervisory Control and Data Acquisition (SCADA) 
+systems, Computerised Maintenance Management Systems (CMMS), Condition Based 
+Monitoring (CBM) technologies.
+
+Dr. Ashraf W. Labib (PhD, MSc, MBA, BSc) 
+Senior Lecturer 
+Manufacturing Division, 
+Department of Mechanical, Aerospace & Manufacturing Engineering, 
+UMIST (University of Manchester Institute of Science & Technology), 
+P.O. Box 88 Manchester M60 1QD 
+UK 
+Email: ashraf.labib@umist.ac.uk 
+Phone: + 161 200 3810 
+Fax : + 161 200 3803

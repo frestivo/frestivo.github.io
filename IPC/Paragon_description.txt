@@ -1,0 +1,93 @@
+PARAGON Ltd. was established in 1994 aiming to provide 
+specialized research, technical and consulting services and to 
+promote the transfer of technology from Universities and Research 
+Institutes to the Industry.
+
+PARAGON Ltd. combines the extensive knowledge of a group of 
+engineers, all of them experts in their fields, and the capabilities of 
+an efficient management team.  This structure gives PARAGON 
+Ltd. the ability to provide management services, expert services, or 
+participate successfully in R&D and technical projects.  Through its 
+continuous participation in joint European projects, PARAGON Ltd. 
+aims to stay at the edge of the technological advancement. Due to 
+our continuous research efforts, PARAGON Ltd was selected to be 
+included in the "beta-testing group" of the Community Research 
+and Development Information Service (CORDIS).
+
+The resources and expertise of PARAGON Ltd. are available for 
+joint participation in European Commission funded projects or as 
+services offered to industrial, governmental or other private 
+agencies.
+
+PARAGON Ltd is registered with the Chamber of Commerce.
+
+Representations:
+In order for PARAGON to be able to offer its high quality services, it 
+is obvious that it has to have access to the top product-lines world-
+wide. Therefore, through its well-established name in European 
+research, PARAGON managed to secure exclusive representation 
+of a number of well-known firms that excel in their sectors with their 
+high-quality products.
+
+Human Resources:
+The personnel of PARAGON Ltd. consists of:
+-Engineers, experts in their fields.
+-Highly trained management staff with proven experience in the 
+management and evaluation of projects
+-Experienced personnel in software development
+-Experienced personnel in hardware development
+It should be again stated here that the personnel of PARAGON Ltd. 
+has a great experience in the participation of both National and 
+International R&D projects.
+
+Apart from the permanently employed staff, PARAGON 
+collaborates with a number of very capable external assistants-
+scientists.  These collaborations enable PARAGON Ltd. to 
+undertake very complex projects in the areas of specialization 
+presented below:
+
+1) Environment: 
+a) Development and Implementation of Integrated Solutions in Noise Abatement using:
+i) Passive Noise Control (Classic Noise Abatement Techniques)
+ii) Active Noise Control (State-of-the-art Techniques for Low-Frequency Noise 
+Abatement)
+iii) Active Vibration Control (State-of-the-art Techniques for Low-Frequency Noise 
+Abatement through the Reduction of Vibrations)
+iv) Combinations of the above
+b) Environmental Impact studies in the field of noise and vibration
+c) Rational Use of Energy
+i) Rational Use of Energy in Industries
+ii) Rational Use of Energy in Buildings
+
+2) Energy
+a) Development and Implementation of Energy Integrated Solutions, using:
+i) Wind Energy, Photovoltaics, Small Hydropower Plants, Biomass/Waste
+b) Optimization of Production Plant Operation
+c) Optimal Energy Use in Production Plants (Site-scale applications)
+
+3) Technology Transfer
+a) In All the Above Sectors by Education and Training
+b) Technology Transfer of Industrial Processes Related Issues (Modern Processing 
+Methods, etc.)
+
+4) Software Development
+a) Development and Implementation of Optimization Algorithms
+i) Classic Optimization Methods
+ii) Evolutionary Optimization Methods (Genetic Algorithms, Simulated Annealing, etc.)
+b) Expert System Development
+i) Classic (Rule-based) Expert Systems
+ii) Artificial Neural Networks
+c) Computational Fluid Mechanics
+i) 2-D and 3-D Finite Difference Method Applications
+ii) 2-D and 3-D Finite Element Analysis (FEA) Applications
+iii) 2-D and 3-D Boundary Element Method Applications
+iv) Commercial Software Applications
+
+5) Hardware Development and Applications
+a) Development of Controllers for Specific Applications
+i) Active Noise and/or Vibration Control
+ii) Industrial Automatic Controls
+b) Signal Conditioning and Wiring
+i) Measuring Applications
+ii) Control Signals
+

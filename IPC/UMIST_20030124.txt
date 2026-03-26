@@ -1,0 +1,30 @@
+UMIST
+
+List of related main topics to IPC which I propose and that are 
+related to my research are:
+
+1. Intelligent Maintenance Decision Support Systems using Fuzzy 
+Logic Control .
+
+2. Multiple Criteria Decision Support in Maintenance Models using 
+the concepts of Analytic Hierarchy Process (AHP) and the Analytic 
+Network Process (ANP).
+
+3. Holonic Maintenance Systems.
+
+4. Reconfigurable Manufacturing Systems.
+
+We have publications related to the above topics for anybody who 
+is interested.
+
+Dr. Ashraf W. Labib (PhD, MSc, MBA, BSc)
+Senior Lecturer
+Manufacturing Division,
+Department of Mechanical, Aerospace & Manufacturing Engineering,
+UMIST (University of Manchester Institute of Science & Technology), 
+P.O. Box 88      
+Manchester M60 1QD
+UK 
+Email: ashraf.labib@umist.ac.uk
+Phone:  + 161 200 3810
+Fax  :  + 161 200 3803

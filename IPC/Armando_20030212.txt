@@ -1,0 +1,56 @@
+The deadline for the submission of our EU-IPC-proposal is approaching.
+
+Together with Mr. Höpf (Fraunhofer-IPA) I am compiling now the
+documentation and all the information that we need from each of the
+clusters of our proposal.
+
+As agreed during and after the meeting in Cardiff, all potential partners
+should identify their roles in the cluster of their interest (until the
+middle of February, i.e., until the end of this week).
+
+For the completion of our work, we need from the leaders of the clusters,
+please:
+
+1)    A list with the name and address of your partners (in each satellite)
+
+2)    A brief description of each of them (1/2 page). We need this
+information for the Form B5 of the proposal documentation.
+
+3)    The Form A2 (to be fulfilled by each of the partners of your
+cluster). Please, find enclosed this Form plus the information of the
+EU-Commission "How to complete the proposal submission forms? 
+
+Remark: 
+Please replace in the file names the word 'partner'with the name of your 
+organization.
+Project name: Intelligent Production Control.
+Acronym: IPC
+
+Please return the filled in documents until 20 February.
+
+From our side:
+
+1)    We will send a "remember e-mail" to all potential partners in order
+to support your work and to facilitate the finalization of the cluster
+structuring process.
+
+2)    We will complete (during this week) a proposal for a distribution of
+responsabilities in relation to the different items to be written in the
+proposal. Who will write the Scientific and Technical information
+concerning the objectives of each cluster.
+
+Should you have any questions or doubts, please don't hesitate to contact
+us!
+
+Dr.-Ing. Armando Walter Colombo
+Schneider Electric - AUT
+Research and Development Germany
+Anticipation and Architectures
+
+Schneider Electric GmbH
+Steinheimer Str. 117, 63500 Seligenstadt
+Germany
+
+Tel: 0049 6182 812269
+Fax: 0049 6182 812157
+E-Mail: armando.colombo@modicon.com

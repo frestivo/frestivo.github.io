@@ -1,0 +1,25 @@
+Work area
+
+The aim is to develop computing methods for Systems Service assurance. This means 
+to detect and control systems failures, degradation or disturbances. Apart from 
+systems availability, service concept includes security and environmental concerns.
+
+The objective is to develop methods that allow an intelligent service assurance by 
+including autonomous decision-making algorithms with learning capabilities.
+
+Activities
+
+1. System service assurance by:
+a) Monitoring: data gathering and failures, degradation or disturbances detection.
+b) Decision making: diagnosis, evaluation, prognosis.
+
+2. Learning, in order to automatically improve service assurance performance.
+
+Knowledge areas:
+Signal processing, Diagnosis algorithms, Predictive Maintenance, Reliability.
+
+Technologies: 
+Data mining, Neural networks, Fuzzy Logic, Knowledge Management, Case-based 
+reasoning.
+
+Tekniker

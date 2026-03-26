@@ -1,0 +1,49 @@
+DAI-Labor Berlin
+
+Since its foundation, DAI-Labor of the Technical University of Berlin has been 
+working on the development of agent technology and its applications in various 
+domains like manufacturing, telecommunication, entertainment, and security. As a 
+result of these works, DAI-Labor realized a new framework for the development of a
+gent based systems. This framework comprehends a scalable and secure architecture 
+and a runtime environment. It is complemented by a series of infrastructure services 
+as well as a series of tools supporting the development of agent technology from 
+analysis phase to development, testing and deployment. 
+
+So far, DAI-Labor has developed a number of systems for the manufacturing sector. 
+The project "CokoM" in which an agent based system for the control of distributed 
+workshops was developed is an example for these applications. In the project "IAFA", 
+which was started by the order of Siemens AG, a study aimed at answering the 
+questions 'how should the holonic structures be implemented in manufacturing sector 
+and how can the holons be realized as an agent operation'  was accomplished.
+
+In the "INAVES" project a study about holonic structures used for modelling 
+production processes was created, as well as the question how holons can be 
+implemented as agents.
+
+In the project "INAWES", a subproject of 'Production 2000+' with the partners 
+Siemens AG, Group Schneider and Daimler Benz, the first prototype for the 
+controlling of flexible production lines was developed and a demonstration was 
+realized by the help of the model equipment in Untertürkheim. 
+
+As seen from the given examples the DAI- Labor possesses an expertise of many years 
+in agent architectures, frameworks, process models and test environments. 
+
+In this project we would like to develop a modelling language based on holons as a 
+part of the software development processes. Such a language should be tool-supported 
+and allow the implementation as agents.  Additionally, we are also interested in the 
+development of a process model for the realization of agent based systems in 
+production sector as an engineering approach. Another aspect would be the 
+development of the ontology engineering in this project. 
+
+I will be glad if we could arrange the next meeting soon in Berlin, so that we can 
+also concretize our contribution to the project. Furthermore also I can actively 
+support the preparation of the proposal.
+
+Prof. Dr.-Ing. habil. Sahin Albayrak
+Technische Universität Berlin
+Fakultät für Elektrotechnik und Informatik (Fakultät IV)
+Fachgebiet Agententechnologien in betriebliche Anwendungen und der Telekommunikation (AOT) und DAI-Labor; Sekr. GOR 1-1, Franklinstraße 28/29, D-10587 Berlin
+E-mail: Sahin@dai-lab.de
+Tel.: +49 30 314 24943
+Fax.: +49 30 314 21 799
+ 

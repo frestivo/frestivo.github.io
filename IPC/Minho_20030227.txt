@@ -1,0 +1,15 @@
+The participation of UMINHO would be in (...)
+  - Methods for MA-e_Factory Enterprise Integration
+  - Integration of MA-e_Factory Model with Plant Life-Cycle Representation
+Standards
+  - Behavior and Performance Assessment / Optimization of Plant
+Configuration
+  - Co-operative Learning in Multi-agent Systems
+(...)
+  - Distributed Virtual Enterprises
+  - Business Process Modeling
+  - Systems Analysis and Identification
+  - The Holonic Enterprise Integration
+  - Integration with Operational Business Procedures
+  - Integration with Legacy Systems
+  - Process, System and Legacy System Integration

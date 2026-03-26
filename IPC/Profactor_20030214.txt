@@ -1,0 +1,11 @@
+WP1:
+- In the learning phase, do you think we should consider the decision
+problem of choosing the best fitting learning algorithm for certain types of
+environments? This is a decision problem of its own, and would therefore
+involve more research and comparison of different learning algorithms to
+certain types of problems, so it might be out of scope.
+Or is this done in WP2 anyway?
+
+Otherwise I feel very happy with it.
+
+Georg

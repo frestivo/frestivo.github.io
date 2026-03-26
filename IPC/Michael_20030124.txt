@@ -1,0 +1,47 @@
+The mission of IPC is to provide knowledge and initial tools for succesfull, safe 
+and efficient migration of intelligent control techniques in a variety of production 
+scenarios.
+
+So far we are planning a contribution from the commission of 8mioEuro max. The total 
+budget may vary because in the sixth framework different activities have different 
+funding ratios. Each of the satellite projects are independently managed. We expect 
+to have 2 Partners per satellite to be responsible and member of the core project 
+team. Their main tasks are:
+
+- to set-up a sub-consortium from the resources already committed 
+- to formulate the satellites goals  
+- to elaborate a workplan with the consortium
+- to negotiate and supervise the budget for the activities.
+
+A satellite may have a temporary sub-consortium of 10 partners and partners can be 
+involved in different satellites; but they should have a clear focus of their 
+activities in IPC.
+
+For SMR the starting conditions are as follows:
+Intelligent Automation requires the replacement of deterministic control sequences 
+by a common negotiation scheme and individual decision algorithms. In the satellite 
+Engineering Plattform a simulation system will be developed for modelling industrial 
+architectures supplied by the satellite Industrial Application. There negotiation 
+and decision making are empty shells. SMR is intended to fill this shells. As we 
+know the knowlegde on principles on these, presumably mathematical, techniques is 
+very underdeveloped and application experience in terms of controllability of these 
+algorithms is not available yet.  
+
+The required activities of SMR therefore are:
+
+- research the principles of Negotiation and decision to control physical equipment
+- Select and develop suitable algorithms according to the architectural and 
+operational requirements of Industrial Application
+- Adapt and integrate the algorithms in the plattform
+- research and report the behaviour of the systems in respect to behaviour and 
+performance
+
+Beside this activities, the sub-group may develop optional tasks contributing to the 
+mission of the project as long as they in the budget.
+
+In the work methods of IPC training activities will play a mayor role. For the SMR 
+this means that the partners will receive extensive instruction from the 
+development and research satellites to be able to perform their tasks in 
+coordination with the project.
+
+Michael Hoepf 

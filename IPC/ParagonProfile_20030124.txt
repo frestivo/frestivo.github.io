@@ -1,0 +1,23 @@
+PARAGON Profile
+
+PARAGON Ltd is a Greek SME that was established in 1994 aiming to provide 
+specialized research, technical and consulting services and to promote the transfer 
+of technology from Universities and Research Institutes to the Industry.
+
+PARAGON Ltd. combines the extensive knowledge of a group of engineers, all of them 
+experts in their fields, and the capabilities of an efficient management team. This 
+structure gives PARAGON Ltd. the ability to provide management services, expert 
+services, or participate successfully in R&D and technical projects. Through its 
+continuous participation in joint European projects, PARAGON Ltd. stays at the edge 
+of the technological advancement. Due to our continuous research efforts, PARAGON 
+Ltd was selected to be included in the "beta-testing group" of the Community 
+Research and Development Information Service (CORDIS).
+
+Among our areas of expertise, directly applicable to INDAGTE, are 
+a) development of Artificial Intelligence (including ANNs for back- box modelling) 
+for engineering applications (i.e., projects DISC, HEACE, AG-COAT, DEMACSYS), 
+b) complex multi-parameter optimization using Genetic Algorithms (DISC, SMARTACUS) 
+c) virtual enterprize and virtual product concepts (CASH, ASCENT initiative). 
+Furthermore, due to our being the representatives of IOtech Inc (USA) who has 
+specifically ethernet based solutions for controlling/integrating the factory level 
+with the managing level, this EoI has also a more direct interest. 

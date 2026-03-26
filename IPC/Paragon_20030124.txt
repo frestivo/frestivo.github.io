@@ -1,0 +1,49 @@
+Paragon
+
+
+On the basis of our background and our discussions with Dr Colombo, I believe our 
+involvement in the INDAGTE proposal could be in the following clusters/workpackages:
+
+a) Cluster 3 "MA - e-Factory Application"
+
+WP2 "Agentification of Automation Functions"
+
+On the basis of our expertise, Paragon could develop/improve the special monitoring 
+software for the diagnosis of the status of machinery and the scheduling of its 
+preventive maintaining. It is well known that an unscheduled stop in the production 
+process involves high costs. Furthermore, in the case of machinery break- downs the 
+response of the technical support is crucial, since the down-time is proportional to 
+the aforementioned costs.
+
+Paragon will develop an Artificial Neural Network (ANN) for the prognosis of the 
+status of the machinery based on their behaviour, as well as other data (usually of 
+statistical nature, like time from last break-down/service, etc). On the basis of 
+these data the ANN will be trained to "foresee" the type of fault and the possible 
+timing. On the basis of this, it will be able to notify, well in advance, the 
+service department for the necessary spare parts and schedule a service in the 
+proper time, minimizing the related costs.
+
+
+b) Cluster 5 "MA - e-Factory Enterprise Integration"
+
+WP2 "Integration with Operational Business Procedures"
+
+Paragon will develop a special optimization system, based on genetic Algorithms, the 
+operation optimization of the whole- e- Factory (site-level). On the basis of the 
+operation schedule/procedures (managerial level) and the status/simulations of the 
+factory floor (developed in Cluster 2), the optimization system will be able to 
+fine-tune the operation of the e-Factory.
+
+Of course, when we receive more information about the proposal and during its 
+development, we will be able to provide more information concerning our involvement 
+and align our contribution with the other partners. 
+
+Dimitri Manolas
+PARAGON LTD
+KARAOLI DIMITRIOU 13, GALATSI
+GR-11146, ATHENS
+GREECE
+Tel: +30-210-2220008
+Fax: +30-210-2220019
+e-mail: paragon1@otenet.gr
+http://www.otenet.gr/paragon
