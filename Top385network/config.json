@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Francisco Restivo"
+  },
+  "text": {
+    "more": "Foram publicadas recentemente duas bases de dados de autores de artigos científicos, ordenados por métricas de impacto, \numa relativa ao ano de 2019 e outra a toda a carreira de cada autor. \nEsta última inclui 159683 autores, dos quais 385 portugueses, e 61 da Universidade do Porto.\nEsta rede inclui todos os cientistas portuguesas e as árreas/subáreas científicas e instituições em que trabalham.\n(fonte: https://data.mendeley.com/datasets/btchxktzyw/2)\n",
+    "intro": "Top 385 cientistas portugueses",
+    "title": "Top 385 cientistas"
+  },
+  "legend": {
+    "edgeLabel": "Área/sub-área/instituição",
+    "colorLabel": "Cluster",
+    "nodeLabel": "Cientista"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
