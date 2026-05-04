@@ -1,0 +1,18 @@
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=windows-1252">
+<META NAME="Generator" CONTENT="Microsoft Word 97">
+<TITLE>Projecto e  implementação de uma ADC Algorítmica</TITLE>
+</HEAD>
+<BODY>
+
+<B><FONT SIZE=4><P ALIGN="CENTER">Projecto e  implementa&ccedil;&atilde;o de uma ADC Algor&iacute;tmica</P>
+</FONT><I><P ALIGN="CENTER">proposto por Pedro Guedes de Oliveira</P>
+</B></I><P ALIGN="JUSTIFY">O projecto visa o desenvolvimento de um conversor anal&oacute;gico-digital algor&iacute;tmico, baseado em sinais de corrente e funcionamento para baixas tens&otilde;es de alimenta&ccedil;&atilde;o, com vista a ser implementado sobre tecnologia de &quot;sea of gates&quot; digitais.</P>
+<P ALIGN="JUSTIFY">O projecto destina-se a <U>dois alunos</U> com interesses e conhecimentos em electr&oacute;nica e VLSI., provavelmente do Ramo TEC, sendo tamb&eacute;m poss&iacute;vel que venham a candidatar-se alunos do Ramo APEL.</P>
+<P ALIGN="JUSTIFY"></P>
+<B><P ALIGN="JUSTIFY"> Descri&ccedil;&atilde;o do projecto:</P>
+</B><P ALIGN="JUSTIFY">Os conversores anal&oacute;gico-digital algor&iacute;tmicos s&atilde;o uma classe de conversores pouco usuais mas que gozam de propriedades interessantes. O seu princ&iacute;pio de funcionamento &eacute; semelhante ao dos conversores de aproxima&ccedil;&otilde;es sucessivas, mas n&atilde;o necessita de um rel&oacute;gio, podendo funcionar de modo ass&iacute;ncrono. A ideia do m&eacute;todo &eacute; que o sinal de entrada, tal e qual como nos ADC de aproxima&ccedil;&otilde;es sucessivas, seja inicialmente comparado com o n&iacute;vel correspondente ao bit mais significativo (ou seja um n&iacute;vel que &eacute; metade do valor m&aacute;ximo na entrada). A partir da&iacute;, a situa&ccedil;&atilde;o &eacute; diferente: um valor correspondente ao n&iacute;vel do segundo bit &eacute; adicionado ou subtra&iacute;do ao sinal de entrada, conforme o resultado da primeira opera&ccedil;&atilde;o tenha sido &quot;menor&quot; ou &quot;maior&quot; e a compara&ccedil;&atilde;o, com o n&iacute;vel de refer&ecirc;ncia &eacute; feita no andar seguinte. O processo repete-se, sendo que o n&iacute;vel a somar ou subtrair passa a ser o dos bits de signific&acirc;ncia sucessivamente menor. Como a compara&ccedil;&atilde;o num determinado andar n&atilde;o depende das opera&ccedil;&otilde;es nos andares a jusante, o sistema converge para o valor final, de modo autom&aacute;tico e ass&iacute;ncrono, sendo o tempo de convers&atilde;o apenas limitado pelos atrasos introduzidos pelos somadores e comparadores.</P>
+<P ALIGN="JUSTIFY">A vantagem de realizar as opera&ccedil;&otilde;es em corrente adv&eacute;m, por um lado, de se conseguirem comuta&ccedil;&otilde;es r&aacute;pidas e, por outro, de se estar menos limitado quanto a excurs&atilde;o das tens&otilde;es de funcionamento, que poder&atilde;o ser bastante mais pequenas. </P>
+<P ALIGN="JUSTIFY">Finalmente, a utiliza&ccedil;&atilde;o de tecnologia digital para a implementa&ccedil;&atilde;o dos circuitos permite usar meios dispon&iacute;veis a n&iacute;vel nacional e a caracteriza&ccedil;&atilde;o dos dispositivos semicondutores desta tecnologia, para utiliza&ccedil;&atilde;o para aplica&ccedil;&otilde;es anal&oacute;gicas, j&aacute; foi anteriormente levada a cabo. </P></BODY>
+</HTML>
