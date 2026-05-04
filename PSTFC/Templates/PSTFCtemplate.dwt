@@ -1,0 +1,56 @@
+<html>
+<head>
+<!-- #BeginEditable "doctitle" -->
+<title>LEEC, PSTFC</title>
+<!-- #EndEditable --> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body text="#FFFFFF" link="#FFFFCC" alink="#CCCC00" vlink="#FFCC66" bgcolor="#8C2B18">
+<table width="100%" border="0" cellspacing="2" cellpadding="2">
+  <tr> 
+    <td width="15%" valign="top" rowspan="2" background="../feup.jpg">&nbsp;</td>
+    <td width="85%" valign="bottom"> 
+      <p><img src="../logonovo_46.gif" width="400" height="60"></p>
+      </td>
+  </tr>
+  <tr>
+    <td width="85%" valign="bottom">
+      <p><font face="Arial, Helvetica, sans-serif">Licenciatura em Engenharia 
+        Electrot&eacute;cnica e de Computadores<br>
+        </font><font face="Arial, Helvetica, sans-serif"><b><a href="../index.html">Projecto, 
+        Semin&aacute;rio ou Trabalho Final de Curso</a></b></font></p>
+      </td>
+  </tr>
+  <tr> 
+    <td width="100%" valign="top" colspan="2">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="15%" valign="top">&nbsp;</td>
+    <td width="85%" valign="top"><b><font size="+1"><!-- #BeginEditable "Titulo" -->{Titulo}<!-- #EndEditable --></font></b></td>
+  </tr>
+  <tr> 
+    <td width="15%" valign="top">&nbsp;</td>
+    <td width="85%" valign="top">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="15%" valign="top"><!-- #BeginEditable "Menu" -->{Menu}<!-- #EndEditable --></td>
+    <td width="85%" valign="top"><!-- #BeginEditable "Conteudo" -->{Conteudo}<!-- #EndEditable --></td>
+  </tr>
+  <tr> 
+    <td width="15%" valign="top"> 
+      <p>&nbsp;</p>
+    </td>
+    <td width="85%" valign="top">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td width="15%" valign="top">&nbsp;</td>
+    <td width="85%" valign="top"><font size="-1"><span style='font-family:Symbol;mso-ascii-font-family:"Times New Roman";
+mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;mso-symbol-font-family:
+Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>Ó</span></span> 
+      F J Restivo. P&aacute;gina modificada pela &uacute;ltima vez em </font><font size="-1"><!-- #BeginEditable "Data" --><font size="-1">{data}</font><!-- #EndEditable -->. 
+      </font></td>
+  </tr>
+</table>
+</body>
+</html>
